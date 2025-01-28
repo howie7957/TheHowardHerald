@@ -1,0 +1,22 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the header bar */
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Font styling to mimic the New York Times look */
+.header h1 {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0;
+}
